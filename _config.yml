@@ -1,6 +1,6 @@
 # Basic config, that must be set correctly
 baseurl: /slides
-githuburl: https://github.com/a-nau/markdownslides/
+githuburl: https://github.com/andy-graybeal/slides/
 
 # Further config
 markdown_slide_separator: ---
